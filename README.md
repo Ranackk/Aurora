@@ -7,9 +7,9 @@ While doing that, it incorporates lights, shadows and surface texture using a no
 ![Image of hypercube rendering](https://www.jan-gihr.com/img/aurora_hypercube.png)
 
 ## Code samples
-[Rendering/ApplicationCUDA.cu](/Rendering/ApplicationCUDA.cu): rendering with CUDA\
 [MarchingFunctions.h](/Marching/MarchingFunctions.h) (bi-)raymarching algorithm implementation\
 [Rendering/Application.cpp](/Rendering/Application.cpp): multithreading architecture, interface to looking glass\
+[Rendering/ApplicationCUDA.cu](/Rendering/ApplicationCUDA.cu): rendering with CUDA\
 [MathLib/SignedDistanceFields](MathLib/SignedDistanceFields): SDF implementations used to represent 4D structures\
 
 ## About the project
